@@ -19,8 +19,8 @@
   weight = 30
 
 [[main]]
-  name = "Data Sets"
-  url = "#datasets"
+  name = "Data"
+  url = "#data"
   weight = 40
 
 [[main]]

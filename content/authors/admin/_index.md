@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Prize Fellow
+role: Prize Fellow in Political Science
 
 # Organizations/Affiliations
 organizations:
@@ -20,21 +20,21 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-- Ethnic Conflict and Civil War
-- Political Behavior
-- Digital Democracy
-- Democratic Decision-Making Mechanisms
+#interests:
+#- Ethnic Conflict and Civil War
+#- Political Behavior
+#- Digital Democracy
+#- Democratic Decision-Making Mechanisms
 
-education:
+#education:
   courses:
-  - course: PhD in Political Science
+#  - course: PhD in Political Science
     institution: ETH Zurich
     year: 2017
-  - course: MA in Social Sciences
+#  - course: MA in Social Sciences
     institution: University of Zurich
     year: 2012
-  - course: BA in Social Sciences
+#  - course: BA in Social Sciences
     institution: University of Zurich
     year: 2009
 
@@ -72,9 +72,16 @@ user_groups:
 ---
 
 
+I am a Prize Fellow in the Department of Politics, Languages & International Studies at the University of Bath. I previously held postdoctoral fellowships at the University of Leuven and the University of Pennsylvania, as well as visiting positions at the European University Institute, the Leibniz-Institute for the Social Sciences, and Yale University. My PhD was awarded by ETH Zurich in 2017. 
 
-I am a Prize Fellow in Political Science at the University of Bath. 
+My research focuses on ethno-nationalist conflict, digital democracy, and political behavior. In my research on ethno-nationalist conflict, I address questions such as: why do ethno-nationalist and especially separatist conflicts emerge? What determines the reactions of states to ethnic claims for increased self-determination? Under what conditions do nonviolent separatist conflicts escalate to violence? And, under what conditions can ethno-nationalist conflicts be resolved peacefully? 
 
-Much of my research focuses on ethnic conflict and political behavior. In recent work I have I explored the causes of conflicts over territorial self-determination and when and why such conflicts escalate from nonviolence to violence and civil war. Moreover, I have a strong interest in digital democratic innovations, such as Internet voting or Voting Advice Applications, and how they affect political behavior including electoral turnout.
+In terms of the latter, I am especially interested in the contribution that democratic decision-making mechanisms, such as referendums, can make to the peaceful resolution of separatist conflicts. In ongoing work, I am extending the focus beyond separatist conflicts and study the potential of one of the most prominent proposals for democratic innovation – deliberative mini-publics – to reduce conflict by increasing the acceptance of negative political decisions.
 
-My work has appeared in the [*British Journal of Political Science*](https://doi.org/10.1017/S0007123415000563), [*Political Communication*](https://doi.org/10.1080/10584609.2018.1526237), the [*Journal of Conflict Resolution*](https://doi.org/10.1177/0022002717735364), [*Electoral Studies*](https://doi.org/10.1016/j.electstud.2017.03.001), and other outlets.
+I also have a strong interest in the implications of the digital revolution for political behavior and democratic quality more generally. In particular, I am interested in internet voting as well as voter information systems commonly referred to as Voting Advice Applications (VAAs). One key question that I address in my research is whether digital innovations like internet voting and VAAs can increase electoral turnout. I have also investigated the potential of internet voting to prevent voters from making easy mistakes that lead to their votes not being counted. Finally, I am involved in a consortium of researchers producing state-of-the-art VAAs for elections in the [UK](http://www.whogetsmyvoteuk.com/#!/) and elsewhere. Our tools have been accessed by hundreds of thousands of voters across Europe.
+
+My work has been published in academic journals such as [*International Organization*]({{< ref "/publication/GermannSambanis2020/index.md" >}}), the [*British Journal of Political Science*]({{< ref "/publication/MendezGermann2018/index.md" >}}), [*Political Behavior*]({{< ref "/publication/Germann2020/index.md" >}}), [*Political Communication*]({{< ref "/publication/GermannGemenis2019/index.md" >}}), the [*Journal of Conflict Resolution*]({{< ref "/publication/SambanisGermannSchaedel2018/index.md" >}}), and [*Electoral Studies*]({{< ref "/publication/GermannSerduelt2017/index.md" >}}).
+
+You can find more information on the projects I am currently working on [here]({{< ref "/#workinprogress" >}}). 
+
+As part of my research, I have collected new data on self-determination movements (with Nicholas Sambanis and Andreas Schädel), sovereignty referendums (with Fernando Mendez and Nicolas Aubert), and on autonomy losses by ethnic groups (with Nicholas Sambanis). You can download these datasets [here]({{< ref "/#data" >}}).

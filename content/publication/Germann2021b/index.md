@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Does Internet Voting Increase Turnout among Expatriate Voters?"
+title: "Pax Populi? An Analysis of the Conflict Resolution Potential of Referendums on Self-Determination"
 authors: 
 - admin
-date: "2020-04-22T00:00:20Z"
+date: "2021-05-19T00:00:20Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,10 +20,10 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "More than 20 countries have trialed internet voting. Expatriates have been a key target group in several of these trials, often with the goal of increasing the historically low turnout rates among this group of voters. However, to what extent internet voting increases expatriate voter turnout remains unclear. This article provides some of the first evidence on the ability of internet voting to increase expatriate voter turnout based on an analysis of extended internet voting trials in 10 Swiss cantons. For causal identification I exploit variation in the availability of internet voting after a canton’s first internet voting trial. Such variation emerged due to (often temporary) halts in some of the cantons as well as technical difficulties with the administration of certain election formats. Using difference-in-differences estimation, I find that expatriate voter turnout was 3 to 6 percentage points higher if expatriate voters had the option to cast their votes online, in addition to postal voting."
+abstract: "The international community increasingly promotes referendums as it intervenes in self-determination conflicts around the world. However, the ability of self-determination referendums to bring about peace remains uncertain. This paper develops the argument that the conflict resolution potential of self-determination referendums is conditional, depending on whether or not they are held under the mutual agreement of the conflict parties. When mutually agreed, self-determination referendums are likely to generate shared perceptions of fair decision-making and thereby increase chances for peace. By contrast, unilateral self-determination referendums are likely to increase ethnic grievances and, therefore, the risk of separatist violence. I find support for this argument in a global statistical analysis, a series of short case studies, and a survey experiment. Overall, this study suggests that self-determination referendums can make a positive contribution to peace, but only if the conditions for a partial compromise on a referendum, including its terms, are ripe."
 
 # Summary. An optional shortened abstract.
-summary: "Evidence from extended internet voting trials in 10 Swiss cantons"
+summary: "When do autonomy and secession referendums contribute to the peaceful resolution of separatist conflicts?"
 
 tags: []
 categories: [Unpublished]
@@ -52,7 +52,7 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "Effects of mutually agreed and unilateral self-determination referendums on the onset and termination of separatist civil war"
   focal_point: ""
   preview_only: false
 

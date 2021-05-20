@@ -49,4 +49,4 @@ The data and documentation can be downloaded [here](/files/LostAutonomy.zip).
 
 When referring to this data set, please always cite:
 
-Germann, Micha, and Nicholas Sambanis (forthcoming). ``Political Exclusion, Lost Autonomy, and Escalating Conflict over Self-Determination.'' *International Organization*, in print. [[1]]({{< ref "/publication/GermannSambanis2020/index.md" >}})
+Germann, Micha, and Nicholas Sambanis (forthcoming). ``Political Exclusion, Lost Autonomy, and Escalating Conflict over Self-Determination.'' *International Organization* 75(1):178-203. [[1]]({{< ref "/publication/GermannSambanis2021/index.md" >}})

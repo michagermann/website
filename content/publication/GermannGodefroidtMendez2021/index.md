@@ -2,9 +2,10 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 
-title: "Islamist Terrorism and Public Opinion: Evidence from the 2017 and 2019 London Bridge Attacks"
+title: "Jihadist Terrorism and Public Opinion: Natural Experimental Evidence from Mass Online Surveys"
 authors: 
 - admin
+- Amélie Godefroidt
 - Fernando Mendez
 date: "2020-04-23T00:00:00Z"
 doi: ""
@@ -22,10 +23,10 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "Does Islamist terrorism affect public opinion in Western democracies? While extant literature is clear that large-scale attacks and especially 9 / 11 had seismic effects, the evidence regarding less major attacks more typical of the recent past is less clear. There is also little consensus on the kind of effects such attacks may have: while terror management theory leads to the expectation that Islamist terrorism will increase ideological polarization, Bayesian updating theory suggests that citizens become more willing to sacrifice civil liberties in favor of security guarantees by the state. Finally, group-based (or ethnocentric) theories suggest that Islamist terrorism will increase in-group identification and, therefore, harden citizens’ stances on immigration in addition to views on law and order. In this paper, we draw on two mass online surveys to estimate the causal effects of the 2017 and 2019 London Bridge attacks. Both surveys were fielded during the time of the attacks and attracted thousands of responses every day. Strengthening causal identification, this unusual set-up allows us to measure shifts in in-group identification and ideological stances over very short time windows while balancing exactly on key confounders.  Placebo tests suggest that there were no unrelated, pre-attack time trends. We find consistent evidence that even minor terrorist attacks affect public opinion. Our results are consistent with ethno-centric theories stressing the role of group-based and ethno-nationalist considerations."
+abstract: "The existing literature has demonstrated that large-scale Jihadist terrorist attacks, such as 9/11, have seismic effects on public opinion. However, the evidence regarding more minor attacks, which are more typical of the recent past, is far less clear. Drawing on two mass online surveys, we estimate the causal effects of the 2017 and 2019 London Bridge attacks on public support for surveillance and restrictive immigration policies. The unusually large number of daily responses allows us to measure shifts in policy support over very short time windows while balancing exactly on possible confounders, thus improving causal identification. Contrary to the recent argument that citizens in Western democracies have become `numb’ to Jihadist terrorism, we find that the London Bridge attacks significantly increased support for surveillance and restrictive immigration policies. Contrary to other recent theorizing, we find no evidence to suggest that these effects are stronger for those who live in close geographical proximity to an attack, and we also find no evidence to suggest that these effects would be limited to reactive liberals."
 
 # Summary. An optional shortened abstract.
-summary: "Does Islamist terrorism affect public opinion in Western democracies?"
+summary: "Did the 2017 and 2019 attacks at London Bridge affect British voters' preferences on immigration and security policy?"
 
 tags: []
 categories: [Unpublished]

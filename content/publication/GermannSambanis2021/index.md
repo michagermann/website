@@ -5,7 +5,7 @@ title: "Political Exclusion, Lost Autonomy, and Escalating Conflict over Self-De
 authors: 
 - admin
 - Nicholas Sambanis
-date: "2020-03-31T00:00:00Z"
+date: "2021-02-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,7 +18,7 @@ publishDate: 2020-04-22T00:00:00Z
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Organization*, forthcoming"
+publication: "*International Organization* 75(1):178-203"
 publication_short: ""
 
 abstract: "Most civil wars are preceded by nonviolent forms of conflict. While it is often assumed that violent and nonviolent conflicts are qualitatively different and have different causes, that assumption is rarely tested empirically. This article uses a two-step approach to explore whether political exclusion and lost autonomy -- two common causes of civil war according to extant literature -- are associated with the emergence of nonviolent separatist claims, with the escalation of nonviolent separatist claims to war, or both. Our analysis suggests that different types of grievances matter more at different stages of conflict escalation. We find that political exclusion is a significant correlate of the escalation of nonviolent claims for self-determination to violence, while its association with the emergence of nonviolent separatist claims is weaker. By contrast, lost autonomy is correlated with both the emergence of nonviolent separatist claims and, if autonomy revocations are recent, their escalation to violence. We argue that these results are consistent with both grievance- and opportunity-based theories of conflict."

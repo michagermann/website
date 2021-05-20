@@ -32,7 +32,7 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "Photo by [Victor Garcia](https://unsplash.com/@victor_g?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [*Unsplash*](https://unsplash.com/)"
   focal_point: ""
   preview_only: false
 #
@@ -47,4 +47,4 @@ The data and documentation can be downloaded [here](/files/SDM2EPR.zip).
 
 When referring to this data set, please always cite:
 
-Germann, Micha, and Nicholas Sambanis (forthcoming). ``Political Exclusion, Lost Autonomy, and Escalating Conflict over Self-Determination.'' *International Organization*, in print. [[1]]({{< ref "/publication/GermannSambanis2020/index.md" >}})
+Germann, Micha, and Nicholas Sambanis (forthcoming). ``Political Exclusion, Lost Autonomy, and Escalating Conflict over Self-Determination.'' *International Organization* 75(1):178-203. [[1]]({{< ref "/publication/GermannSambanis2021/index.md" >}})

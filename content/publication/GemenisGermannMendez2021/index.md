@@ -1,12 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Deliberative Mini-Publics, Procedural Fairness, and the Acceptance of Negative Political Decisions"
+title: "Does Personalized Information on Issue Congruence Affect Voting Preferences? Evidence from Field Experiments in Five Countries"
 authors: 
 - admin
-- Sofie Marien 
-- Lala H. Muradova
-date: "2020-05-04T00:00:00Z"
+date: "2021-05-18T00:00:20Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -22,10 +20,10 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "This project aims to study the potential of one of the most prominent proposals for democratic innovation - deliberative mini-publics - to increase the acceptance of negative political decisions, a key prerequisite for democratic stability. Mini-publics are increasingly catching the interest of activists and government officials, in part because they have been argued to increase perceptions of fair decision-making and, thereby, citizens' willingness to accept negative political decisions. However, whether and under what conditions mini-publics actually have these effects when they are added to existing democratic decision-making processes remains unclear. This project will provide some of the first systematic evidence on the polity-wide effects of mini-publics on the acceptance of negative decisions based on two survey experiments. To maximize ecological validity, both experiments will be conducted in Ireland, one of the few countries having recent experience with high-profile mini-publics. The findings of this project will provide novel insights about the promises and potential pitfalls of integrating mini-publics with established democratic procedures."
+abstract: "Voting Advice Applications (VAAs) are online tools which provide voters with personalized information on the extent to which their policy views match those of parties or candidates. VAAs have become increasingly prominent features of electoral campaigns in recent years, especially in multi-party systems. However, to what extent whether voters actually make use of VAAs to inform their voting preferences remains unclear. We present new field experimental evidence on the effects of VAAs on voting preferences from five European countries. We find consistent evidence that exposure to VAA advice leads voters to update their voting preferences in line with the information provided. Furthermore, we find partial evidence that VAAs have stronger effects on the preferences of less politically interested and undecided voters. Overall, our results point to the value of VAAs as a mechanism to strengthen democratic representation and accountability."
 
 # Summary. An optional shortened abstract.
-summary: "Survey Experimental Evidence from Ireland"
+summary: "Do VAAs affect voting preferences?"
 
 tags: []
 categories: [Unpublished]
@@ -54,7 +52,7 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Photo by [Zainul Yasni](https://unsplash.com/@zainulyasni6118?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [*Unsplash*](https://unsplash.com/)"
+  caption: "Effect of exposure to VAA results on voting preferences in the 2019 UK General Election"
   focal_point: ""
   preview_only: false
 
